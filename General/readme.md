@@ -1,0 +1,1 @@
+General frequencies which aren't geographically specific, undocumented, or unknown
