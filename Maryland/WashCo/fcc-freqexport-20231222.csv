@@ -1,4 +1,4 @@
-,,,,CALLSIGN,,,,,,FREQ,,,,,,,,,,,,,,,,,,,
+record_type,unique_system_identifier,uls_file_number,ebf_number,call_sign,frequency_action_performed,location_number,antenna_number,class_station_code,op_altitude_code,frequency_assigned,frequency_upper_band,frequency_carrier,time_begin_operations,time_end_operations,power_output,power_erp,tolerance,frequency_ind,status,eirp,transmitter_make,transmitter_model,auto_transmitter_power_control,cnt_mobile_units,cnt_mob_pagers,freq_seq_id,status_code,status_date,date_first_used
 FR,532,,,KGC602,,2,1,FBBS,,152.63000000,,,,,,76.000,,,,,,,,,,1,,,
 FR,532,,,KGC602,,4,1,FBBS,,152.63000000,,,,,,137.000,,,,,,,,,,1,,,01/24/1994
 FR,532,,,KGC602,,4,2,FBBS,,152.63000000,,,,,,201.400,,,,,,,,,,1,,,
