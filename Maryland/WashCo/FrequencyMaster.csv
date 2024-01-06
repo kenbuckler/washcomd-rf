@@ -5,9 +5,9 @@ Frequency,License,Type,Tone,Alpha Tag,Description
 154.4075,KFZ738,Mobile,,HTTRF1,City of Hagerstown TRAFFIC
 158.820,KFZ738,Mobile,,HTTRF2,City of Hagerstown TRAFFIC
 155.790,KGA870,Mobile,,HTPUBSAFE,City of Hagerstown Public Safety Pool
-153.5675,WPKH219,Mobile,HTWATER,City of Hagerstown Water
-159.735,WPKH219,Mobile,HTWATER,City of Hagerstown Water
-956.26875,WQAE851,Mobile,HTMICRO,City of Hagerstown Microwave Tower
+153.5675,WPKH219,Mobile,,HTWATER,City of Hagerstown Water
+159.735,WPKH219,Mobile,,HTWATER,City of Hagerstown Water
+956.26875,WQAE851,Mobile,,HTMICRO,City of Hagerstown Microwave Tower
 39.040,KGA914,Fixed,,MSP39-1,Maryland State Police
 39.060,KGA914,Fixed,,MSP39-2,Maryland State Police
 39.100,KGA914,Fixed,,MSP39-3,Maryland State Police
